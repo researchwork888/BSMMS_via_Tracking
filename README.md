@@ -6,4 +6,4 @@ Folder Description:
 
 Supplementary Materials: Includes audio files that are part of the supplementary materials of the full paper. 
 
-Additional Baseline Comparison Results: Includes audio files of external methods, i.e., the ConsistentILRMA and the Dual Path RNN. 
+Additional Comparisons: Includes audio files of external methods, i.e., the ConsistentILRMA and the Dual Path RNN. 
